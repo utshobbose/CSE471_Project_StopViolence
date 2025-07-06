@@ -16,4 +16,11 @@ mongoose.connect(mongoString)
 .then (() => console.log("Database connected"))
 .catch((err) => console.error(err));
 
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+
+// For testing purposes, you can add a simple route
+// to check if the server is running
+app.get('/', (req, res) => {
+    res.send("Stop Violence API is running");
+});
+
+app.listen(PORT, () => console.log(`Server running on port ${PORT}, http://localhost:${PORT}`));
