@@ -18,7 +18,7 @@
 
 ### 📍 Module 2: Tracking Features
 1. **[21201782: Utshob]** Live location tracking and history of frequent locations sent to trusted contacts.  
-2. **[21201782: Utshob]** .  
+2. **[21201782: Utshob]** Payment module for self defence equipment.  
 3. **[22101059: Takwar]** .  
 4. **[20316001: Ifshar]** Behavior tracking and pattern recognition to notify about escalating threats.  
 
