@@ -18,14 +18,14 @@
 
 ### 📍 Module 2: Tracking Features
 1. **[21201782: Utshob]** Live location tracking and history of frequent locations sent to trusted contacts.  
-2. **[21201782: Utshob]** Alert mode triggers if app detects loud sounds or specific keywords (e.g., "I'm going to kill you").  
-3. **[22101059: Takwar]** Discreet audio recording with metadata.  
+2. **[21201782: Utshob]** .  
+3. **[22101059: Takwar]** .  
 4. **[20316001: Ifshar]** Behavior tracking and pattern recognition to notify about escalating threats.  
 
 ### 📚 Module 3: Resources Section
-1. **[22101059: Takwar]** Access to self-defense resources, legal contacts, and NGOs.  
+1. **[22101059: Takwar]** Access to self-defense resources, legal contacts, and NGOs. Educational material on abuse, rights, and getting help.  
 2. **[22101059: Takwar]** Community forum for support (no DMs to ensure safety).  
-3. **[20316001: Ifshar]** Educational material on abuse, rights, and getting help.  
+3. **[20316001: Ifshar]** Store for necessary self defence equipment.  
 4. **[21201782: Utshob]** Interactive map showing nearby public areas and police stations.  
 
 ---
