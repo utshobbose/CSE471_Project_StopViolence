@@ -1,7 +1,7 @@
 ## 🛠 Tech Stack
 
 - **Language:** JavaScript  
-- **Frontend Framework:** React.js  
+- **Mobile App Development Frontend Framework:** ReactNative 
 - **Backend Framework:** Express.js  
 - **Styling:** TailwindCSS  
 - **Database:** MongoDB  
