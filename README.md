@@ -11,22 +11,22 @@
 ## ✅ Functional Requirements
 
 ### 📦 Module 1: Safety and Alert Features
-1. **[20316001: Ifshar]** Free-form journal for the victim, supporting voice notes and file upload.  
-2. **[20316001: Ifshar]** SOS system that contacts police and trusted parties—easy to trigger (e.g., pressing volume down five times).  
-3. **[21201782: Utshob]** Connect to a trusted contact and share your current location, enabling them to listen in.  
-4. **[22101059: Takwar]** Emergency SMS using code words (e.g., "not done cooking yet" = alert my contacts).  
+1. **[Ifshar]** Free-form journal for the victim, supporting voice notes and file upload.  
+2. **[Ifshar]** SOS system that contacts police and trusted parties—easy to trigger (e.g., pressing volume down five times).  
+3. **[Utshob]** Connect to a trusted contact and share your current location, enabling them to listen in.  
+4. **[Takwar]** Emergency SMS using code words (e.g., "not done cooking yet" = alert my contacts).  
 
 ### 📍 Module 2: Tracking Features
-1. **[21201782: Utshob]** Live location tracking and history of frequent locations sent to trusted contacts.  
-2. **[21201782: Utshob]** Payment module for self defence equipment.  
-3. **[22101059: Takwar]** .  
-4. **[20316001: Ifshar]** Behavior tracking and pattern recognition to notify about escalating threats.  
+1. **[Utshob]** Live location tracking and history of frequent locations sent to trusted contacts.  
+2. **[Utshob]** Payment module for self defence equipment.  
+3. **[Takwar]** .  
+4. **[Ifshar]** Behavior tracking and pattern recognition to notify about escalating threats.  
 
 ### 📚 Module 3: Resources Section
-1. **[22101059: Takwar]** Access to self-defense resources, legal contacts, and NGOs. Educational material on abuse, rights, and getting help.  
-2. **[22101059: Takwar]** Community forum for support (no DMs to ensure safety).  
-3. **[20316001: Ifshar]** Store for necessary self defence equipment.  
-4. **[21201782: Utshob]** Interactive map showing nearby public areas and police stations.  
+1. **[Takwar]** Access to self-defense resources, legal contacts, and NGOs. Educational material on abuse, rights, and getting help.  
+2. **[Takwar]** Community forum for support (no DMs to ensure safety).  
+3. **[Ifshar]** Store for necessary self defence equipment.  
+4. **[Utshob]** Interactive map showing nearby public areas and police stations.  
 
 ---
 
