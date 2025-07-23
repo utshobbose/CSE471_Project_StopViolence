@@ -1,5 +1,6 @@
 ## 🛠 Tech Stack
 Still under development, soon shifting this web application to mobile application
+
 **Prefered Stack:**
 - **Language:** JavaScript  
 - **Mobile App Development Frontend Framework:** ReactNative 
